@@ -1,1 +1,1 @@
-# Miniproject2
+# Image Mosaic Generator
