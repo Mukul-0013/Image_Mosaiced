@@ -10,7 +10,11 @@ Task: To replace an inputted image’s pixels by different images provided from 
 ● You have to enter grid dimension i.e. number of sample images used to represent the mosaiced image.
 
 ● Atlast you have to enter the name of the mosaiced image which will be created after processing the dataset.
-INPUT IMAGE: OUTPUT IMAGE:
-spidey.jpg
-spidey_result.jpg
-  
+
+![GitHub Logo](/Images/spidey.jpg)
+
+![GitHub Logo](/Images/spidey_result.jpg)
+
+***NOTE: Size of mosaiced image will differ from original image according to the grid size given by the user.***
+ 
+
